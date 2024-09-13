@@ -1,0 +1,6 @@
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.dll
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.pdb
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.dll
+C:\Users\maazs\Desktop\Prog 2 ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.pdb
